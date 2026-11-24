@@ -3,6 +3,9 @@
 
 Prints the one-sentence agent disaster story and writes it to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
+
+The joke: the agent confuses "test" with "production", then proudly
+announces the outage as a job well done.
 """
 
 import os
